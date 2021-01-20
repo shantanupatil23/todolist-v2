@@ -1,7 +1,7 @@
 {
   "name": "todolist-v1",
   "version": "1.0.0",
-  "description": "",
+  "description": "I've created this project while doing Web Development course on Udemy. Project No #11",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,6 +16,15 @@
     "ejs": "^2.7.4",
     "express": "^4.17.1",
     "lodash": "^4.17.20",
-    "mongoose": "^5.11.12"
-  }
+    "mongoose": "^5.11.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shantanupatil23/todolist-v2.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/shantanupatil23/todolist-v2/issues"
+  },
+  "homepage": "https://github.com/shantanupatil23/todolist-v2#readme"
 }
